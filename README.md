@@ -13,4 +13,6 @@ The motors max pull are 1040 grams each, so for this setup the max pull is 12 ti
 
 This work is for public domain. You are free to copy it, modify it or distribute it with no royalties, fees, and stuff like that.
 
+![alt text](https://github.com/iso9660/FoxDroneFrame/blob/master/FoxV4.PNG?raw=true)
+
 ![alt text](https://github.com/iso9660/XtoolDroneFrame/blob/master/XtoolV1.PNG?raw=true)
