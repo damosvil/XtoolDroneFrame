@@ -6,7 +6,7 @@ The arms of this frame are compatible with FLOSS-210 frame. They have the same b
 The recommended esc configuration for these motors in Blheli_M is 48Khz pwm setting. Otherwise they overheat.
 
 Top plate is 3mm thick, middle plate is 2mm thick, bottom plate is 3mm thick, arms and reinforcements are 4mm thick.
-Frame posts are 40mm tall so camera is located atop the stack, and receiver over the camera and under the top plate.
+Frame posts are 40mm tall so camera is located above the stack, and receiver over the camera and under the top plate.
 
 This setup is 190 grams dry weight (no battery) and about 340 grams with 1100mah 4s battery.
 
